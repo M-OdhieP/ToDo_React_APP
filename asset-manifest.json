@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ToDo_React_APP/static/css/main.2152a08a.css",
+    "main.js": "/ToDo_React_APP/static/js/main.1caca7e9.js",
+    "static/js/787.b2bbd714.chunk.js": "/ToDo_React_APP/static/js/787.b2bbd714.chunk.js",
+    "static/media/raiden_shogun.gif": "/ToDo_React_APP/static/media/raiden_shogun.119b0695958aa5af86d1.gif",
+    "static/media/logo.svg": "/ToDo_React_APP/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ToDo_React_APP/index.html",
+    "main.2152a08a.css.map": "/ToDo_React_APP/static/css/main.2152a08a.css.map",
+    "main.1caca7e9.js.map": "/ToDo_React_APP/static/js/main.1caca7e9.js.map",
+    "787.b2bbd714.chunk.js.map": "/ToDo_React_APP/static/js/787.b2bbd714.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2152a08a.css",
+    "static/js/main.1caca7e9.js"
+  ]
+}
